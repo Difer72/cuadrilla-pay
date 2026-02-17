@@ -1,0 +1,6 @@
+{
+  "appId": "com.cuadrillapay.app",
+  "appName": "CuadrillaPay",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
